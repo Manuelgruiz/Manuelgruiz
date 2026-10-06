@@ -20,31 +20,6 @@ Software & AI Engineer based in Seville / Granada, Spain. Currently pursuing my 
 
 Most weeks look like this: designing modular REST APIs that handle business logic without clutter, orchestrating LLM agents with LangChain and vector databases before the context window explodes, containerizing microservices in Docker, and configuring CI/CD pipelines so deployments don't break production. That is the job. It’s practical, challenging, and I love building robust solutions that work reliably.
 
-## What I work with
-
-- **Backend & Microservices** Java (Spring Boot) and TypeScript (NestJS). Clean architecture, RESTful APIs, modular design patterns, and robust unit/integration testing.
-- **AI & Intelligent Systems** Python (FastAPI), LangChain, RAG Architectures, Agentic Workflows, and Vector Databases (PGVector).
-- **Frontend** Modern web applications with ReactJS, Next.js, and Angular.
-- **Databases** PostgreSQL, PGVector for similarity search, and MongoDB.
-- **DevOps & Infrastructure** Docker containerization, GitLab CI/CD pipelines, AWS, and Linux environments.
-
-## How I work
-
-- Understand the architecture and system requirements before writing a single line of code.
-- Write tests alongside backend logic—reliability is non-negotiable.
-- Keep microservices clean, modular, and easy to maintain across multidisciplinary teams.
-- Pragmatic AI integration: AI components should solve real architectural problems, not just add hype.
-
-## 📊 Activity
-
-<p align="center">
-  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=Manuelgruiz&accent=6db33f&cell=square&hide_border=true"/>
-  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=Manuelgruiz&accent=6db33f&cell=square&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=Manuelgruiz&accent=6db33f&cell=square&hide_border=true"/>
-</p>
-
 ## Notes
 
 Academic and commercial backend projects often remain in private repositories, so what is public here focuses on open-source experiments, AI integrations, and tools.
